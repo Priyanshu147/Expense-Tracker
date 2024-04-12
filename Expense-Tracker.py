@@ -8,9 +8,9 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 conn = psycopg2.connect(
     database="Expense Tracker",
-    user="postgres",
+    user="use your sql server user name",
     host="localhost",
-    password="priyanshu",
+    password="use your sql server password",
     port=5432,
 )
 

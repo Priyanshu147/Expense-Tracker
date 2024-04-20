@@ -18,7 +18,7 @@ The following libraries are used in this application:
 
 To run this application, you need to install the required libraries. You can do this using pip, the Python package manager. Run the following command in your terminal or command prompt:
 
- pip install tkinter customtkinter Pillow psycopg2 matplotlib
+ `pip install tkinter customtkinter Pillow psycopg2 matplotlib`
 
 ## Usage
 
